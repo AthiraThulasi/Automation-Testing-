@@ -20,8 +20,6 @@ Build Tool: Maven
 
 Test Framework: TestNG
 
-Reporting Tool: Extent Reports/Allure Reports
-
 CI/CD Integration: Jenkins 
 
 
