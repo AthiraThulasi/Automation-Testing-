@@ -21,17 +21,31 @@ CI/CD Integration: Jenkins
 ## AutomationFramework
 
 ├── src/main/java
+
 │   ├── org/
+
 │       ├── Athira/
+
 │           ├── app/
-│               ├── main/               # Main application logic
-│               ├── Pages/              # Page Object Model classes
-│                   ├── LoginPage.java  # Login page class
-│               ├── utils/              # Utility classes (e.g., Config folder)
-│                   ├── Config/         # Configuration management
-│               ├── resources/          # Config properties (e.g., config.properties)
+
+│               ├── main/                               # Main application logic
+
+│               ├── Pages/                             # Page Object Model classes
+
+│                   ├── LoginPage.java                # Login page class
+
+│               ├── utils/                           # Utility classes (e.g., Config folder)
+
+│                   ├── Config/                     # Configuration management
+
+│               ├── resources/                     # Config properties (e.g., config.properties)
+
 ├── src/test/java
-│   ├── TestLogin/                       # Test classes
+│   
+├── TestLogin/                       # Test classes
+
 │       ├── TestLogin.java               # Login test script
+
 ├── pom.xml                              # Maven configuration file
+
 ├── README.md                            # Project documentation
