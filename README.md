@@ -1,14 +1,15 @@
 # Project Overview
 
-This repository contains an automation testing framework developed using Selenium WebDriver and Java. 
-The framework is designed for testing web applications and includes scripts for functional, regression, and end-to-end testing.
-
+This project is about automating various features of the Best Buy website using Selenium WebDriver and Java. It focuses on ensuring reliable testing for critical functionalities like login, product search, adding items to the cart, and checkout.
 ## Features
-Built with the Page Object Model (POM) design pattern for scalability and maintainability.
-Supports cross-browser testing (e.g., Chrome, Firefox).
-Integrated with testing frameworks like TestNG for managing test execution.
-Utilizes explicit waits for handling dynamic web elements.
-Generates detailed test execution reports.
+
+Developed using the Page Object Model (POM) design pattern for scalability and maintainability.
+Automates workflows for key Best Buy features:
+Login
+Product search
+Adding items to the cart
+Checking out
+Integrated with TestNG for test execution and reporting.
 
 ## Tech Stack
 Programming Language: Java
