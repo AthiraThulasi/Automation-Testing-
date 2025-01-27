@@ -12,11 +12,17 @@ Generates detailed test execution reports.
 
 ## Tech Stack
 Programming Language: Java
+
 Automation Tool: Selenium WebDriver
+
 Build Tool: Maven
+
 Test Framework: TestNG
+
 Reporting Tool: Extent Reports/Allure Reports
+
 CI/CD Integration: Jenkins 
+
 
 ## AutomationFramework
 
